@@ -1,0 +1,102 @@
+    1  
+    2  ls
+    3  cd itp270-samer
+    4  ls
+    5  cat Lecture3.txt
+    6  cd /ITP270-Samer
+    7  cd ITP270-Samer
+    8  nano Lecture3.txt
+    9  cat Lecture3.txt
+   10  git status
+   11  git add -A 
+   12  git status
+   13  clear
+   14  git commit -m "Adding the Lecture3 file with folder structure"
+   15  git push
+   16  clear
+   17  pwd
+   18  cd ..
+   19  mkdir Movies 
+   20  pwd
+   21  cd Movies 
+   22  ls 
+   23  clear 
+   24  mkdir Action
+   25  mkdir Comedy 
+   26  mkdir Drama
+   27  ls
+   28  clear 
+   29  touch genres.txt
+   30  ls
+   31  cd Action
+   32  mkdir Scifi
+   33  cd Scifi
+   34  touch Terminator
+   35  touch Terminator.txt
+   36  ls
+   37  pwd
+   38  cd ..
+   39  mkdir Superhero 
+   40  touch batman.txt
+   41  touch Matrix Reloaded.txt
+   42  touch Matrix-Revolutions.txt
+   43  touch Matrix.txt
+   44  touch Superman.txt
+   45  touch Wonderwoman.txt
+   46  clear
+   47  ls 
+   48  cd ..
+   49  cd comedy
+   50  cd Comedy
+   51  mkdir Slapstick
+   52  mkdir Satire
+   53  touch the-office.txt
+   54  ls
+   55  pwd
+   56  clear
+   57  cd slapstick
+   58  cd Slapstick
+   59  touch waterboy.txt
+   60  touch Zoolander.txt
+   61  ls 
+   62  cd Satire
+   63  cd ..
+   64  cd Satire
+   65  touch Fightclub.txt
+   66  ls 
+   67  clear
+   68  cd ..
+   69  cd Drama
+   70  mkdir Biopic 
+   71  cd Biopic 
+   72  touch Cleopatra.txt
+   73  touch Lincoln.txt
+   74  touch Frida.txt
+   75  touch Notorious.txt
+   76  touch Ray.txt
+   77  ls
+   78  cd ..
+   79  mkdir Historical 
+   80  cd Histoical
+   81  cd Historical
+   82  touch Gladiator.txt
+   83  touch Selma.txt
+   84  ls
+   85  clear
+   86  pwd
+   87  cd ..
+   88  git status 
+   89  cd ITP270-Samer 
+   90  cd ..
+   91  ls 
+   92  cd ITP270-Samer
+   93  git status 
+   94  nano Superman.txt
+   95  cat Superman.txt
+   96  nano Fightclub.txt
+   97  cat Faightclub.txt
+   98  cat Fighthub.txt
+   99  cat Fightclub.txt
+  100  clear
+  101  cd ..
+  102  ls 
