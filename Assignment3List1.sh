@@ -1,3 +1,5 @@
+Please see all styles 
+
 Mens Hairstyles 	Price	# of times Purchased last week 
 Dreadlocks             	200	                2
 Crew Cut	        40                 	4
